@@ -1,0 +1,13 @@
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.exe
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.deps.json
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.runtimeconfig.json
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.runtimeconfig.dev.json
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.dll
+D:\Wolf\6concole\6concole\bin\Debug\netcoreapp3.1\6concole.pdb
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.csprojAssemblyReference.cache
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.csproj.CoreCompileInputs.cache
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.AssemblyInfoInputs.cache
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.AssemblyInfo.cs
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.dll
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.pdb
+D:\Wolf\6concole\6concole\obj\Debug\netcoreapp3.1\6concole.genruntimeconfig.cache
